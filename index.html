@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        @import url(css/style.css);
+        @import url(css/menu_style.css);
+        @import url(css/header_style.css);
+    </style>
+    <script src="js/load.js" defer></script>
+    <script src="js/menu.js" defer></script>
+    <script src="js/scroll-min-menu.js" defer></script>
+    <script src="js/scrollBar.js" defer></script>
+    <script src="js/headerFinder.js" defer></script>
+    <script src=""></script>
+</head>
+<body>
+    <section data-black-window class="black-window"></section>
+    <nav nav-bar-left class="menu">
+            <div data-menu-button class="button-show-menu">
+                <span data-burger class="burger"></span>
+            </div>
+            <div data-menu-header class="menu-header">
+                <h3>MENU</h3>
+            </div>
+        <div data-menu-section class="menu-section">
+            <a href="index.html" class="href-menu"><img class="svg-icon-menu" src="img/home.svg" alt="home">
+                <figcaption>ГОЛОВНА</figcaption>
+            </a>
+            <section data-first-section-menu class="section-menu">
+                <details>
+                    <summary>ОБ'ЄКТИ</summary>
+                    <section class="body-of-list">
+                        <details>
+                        <summary class="second-summery-list">Центр Теплопостачання</summary>       
+                            <table class="table-list">
+                                <thead>
+                                    <tr>
+                                        <th>Object</th>
+                                        <th>District</th>
+                                    </tr>
+                                </thead>
+                                <tbody data-load-ct></tbody>
+                            </table>
+                        </details>
+                        <details>
+                            <summary class="second-summery-list">Райони Тепломереж</summary>       
+                                <table class="table-list">
+                                    <thead>
+                                        <tr>
+                                            <th>Object</th>
+                                            <th>District</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody data-load-rt></tbody>
+                                </table>
+                            </details>
+                    </section>
+                </details>
+            </section>
+            <section data-third-section-menu class="section-menu">
+                <details>
+                    <summary>SCADA</summary>
+                        <a href="#" class="href-menu"><img class="svg-icon-menu" src="img/monitor.svg" alt="SCADA">
+                            <figcaption>Завод Енергія</figcaption>
+                        </a>
+                        <a href="#" class="href-menu"><img class="svg-icon-menu" src="img/monitor.svg" alt="SCADA">
+                            <figcaption>Голосієво</figcaption>
+                        </a>
+                </details>
+            </section>
+            <a href="ftp://10.80.52.191/FTP" class="href-menu"><img class="svg-icon-menu" src="img/folder.svg" alt="FTP">
+                <figcaption>FTP</figcaption>
+            </a>
+        </div>
+    </nav>
+    <div class="progress"><div></div></div>
+    <section data-header-of-base class="header-of-base">
+        <aside class="header-text">
+            <h1>ВАСУТП</h1>
+            <p>виробничих об'єктів</p>
+            <p>КП "КИЇВТЕПЛОЕНЕРГО"</p>
+        </aside>
+        <aside data-header-finder class="header-finder">
+                <select data-select-option>
+                    <option value="true">true</option>
+                    <option value="A-Z">A-Z</option>
+                    <option value="Z-A">Z-A</option>
+                </select>
+                <input type="text" placeholder="start typing">
+                <button>Search</button>
+            </article>
+        </aside>
+    </section>
+    <section data-body-of-base class="body-of-base">
+        <h2>Загальна база проєктів</h2>
+        <table data-base-table class="table-of-base">
+            <thead data-thead-of-base class="thead-of-base">
+                <tr>
+                    <th>№</th>
+                    <th>Обєкт</th>
+                    <th>Проект</th>
+                    <th>Обладнання</th>
+                    <th>Стадія</th>
+                    <th>Підрядник</th>
+                    <th>Вир. кон-у кер-я</th>
+                    <th>Вир. кон-у дисп-ї</th>
+                    <th>SCADA</th>
+                    <th>Керування</th>
+                    <th>Дисп-я</th>
+                </tr>
+            </thead>
+            <tbody data-insert-string-from-base class="tbody-of-base">
+            </tbody>
+        </table>
+    </section>
+</body>
+</html>

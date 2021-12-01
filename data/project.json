@@ -1,0 +1,1310 @@
+{
+"ct": [
+	{
+		"district":"ЦТ-1",
+		"object": "РК Центральна",
+		"param": [
+			{
+				"power": "100",
+				"boilers": "4",
+				"SCADA": "none",
+				"system": "none"
+			}
+		]
+	},
+	{
+		"district":"ЦТ-1",
+		"object": " СТ Біличі",
+		"param": [
+			{
+				"power": "100",
+				"boilers": "4",
+				"SCADA": "none",
+				"system": "none"
+			}
+		]
+	},
+	{
+		"district":"ЦТ-2",
+		"object": "РК Молодь",
+		"param": [
+			{
+				"power": "100",
+				"boilers": "4",
+				"SCADA": "none",
+				"system": "none"
+			}
+		]
+	},
+	{
+		"district":"ЦТ-2",
+		"object": "СТ-1",
+		"param": [
+			{
+				"power": "100",
+				"boilers": "4",
+				"SCADA": "none",
+				"system": "none"
+			}
+		]
+	},
+	{
+		"district":"ЦТ-3",
+		"object": "РК Мінська",
+		"param": [
+			{
+				"power": "100",
+				"boilers": "4",
+				"SCADA": "none",
+				"system": "none"
+			}
+		]
+	},
+	{
+		"district":"ЦТ-3",
+		"object": "РК Пар",
+		"param":[
+			{
+				"power": "100",
+				"boilers": "4",
+				"SCADA": "none",
+				"system": "none"
+			}
+		]
+	},
+	{
+		"district":"ЦТ-3",
+		"object": "СТ-2",
+		"param":[
+			{
+				"power": "100",
+				"boilers": "4",
+				"SCADA": "none",
+				"system": "none"
+			}
+		]
+	},
+	{
+		"district":"ЦТ-4",
+		"object": "РК Воскресенка",
+		"param": [
+			{
+				"power": "100",
+				"boilers": "4",
+				"SCADA": "none",
+				"system": "none"
+			}
+		]
+	},
+	{
+		"district":"ЦТ-4",
+		"object": "СТ Позняки",
+		"param":[
+			{
+				"power": "100",
+				"boilers": "4",
+				"SCADA": "none",
+				"system": "none"
+			}
+		]
+	},
+	{
+		"district":"ЦТ-5",
+		"object":"РК Веркон",
+		"param": [
+			{
+				"power": "100",
+				"boilers": "4",
+				"SCADA": "none",
+				"system": "none"
+			}
+		]
+	},
+	{
+		"district":"ЦТ-5",
+		"object": "РК Відрадний",
+		"param":[
+			{
+				"power": "100",
+				"boilers": "4",
+				"SCADA": "none",
+				"system": "none"
+			}
+		]
+	},
+	{
+		"district":"ЦТ-5",
+		"object":"РК М. Борщагівська",
+		"param":[
+			{
+				"power": "100",
+				"boilers": "4",
+				"SCADA": "none",
+				"system": "none"
+			}
+		]
+	},
+	{
+		"district":"ЦТ-6",
+		"object": "РК Виноградар",
+		"param": [
+			{
+				"power": "100",
+				"boilers": "4",
+				"SCADA": "none",
+				"system": "none"
+			}
+		]	
+	},
+	{
+		"district":"ЦТ-6",
+		"object": "РК Нивки",
+		"param": [
+			{
+				"power": "100",
+				"boilers": "4",
+				"SCADA": "none",
+				"system": "none"
+			}
+		]	
+	}
+],
+"rt": [
+	{
+		"district":"ЦТ-1",
+		"object": "РК Центральна",
+		"param": [
+			{
+				"power": "100",
+				"boilers": "4",
+				"SCADA": "none",
+				"system": "none"
+			}
+		]
+	},
+	{
+		"district":"ЦТ-1",
+		"object": " СТ Біличі",
+		"param": [
+			{
+				"power": "100",
+				"boilers": "4",
+				"SCADA": "none",
+				"system": "none"
+			}
+		]
+	},
+	{
+		"district":"ЦТ-2",
+		"object": "РК Молодь",
+		"param": [
+			{
+				"power": "100",
+				"boilers": "4",
+				"SCADA": "none",
+				"system": "none"
+			}
+		]
+	},
+	{
+		"district":"ЦТ-2",
+		"object": "СТ-1",
+		"param": [
+			{
+				"power": "100",
+				"boilers": "4",
+				"SCADA": "none",
+				"system": "none"
+			}
+		]
+	},
+	{
+		"district":"ЦТ-3",
+		"object": "РК Мінська",
+		"param": [
+			{
+				"power": "100",
+				"boilers": "4",
+				"SCADA": "none",
+				"system": "none"
+			}
+		]
+	},
+	{
+		"district":"ЦТ-3",
+		"object": "РК Пар",
+		"param":[
+			{
+				"power": "100",
+				"boilers": "4",
+				"SCADA": "none",
+				"system": "none"
+			}
+		]
+	},
+	{
+		"district":"ЦТ-3",
+		"object": "СТ-2",
+		"param":[
+			{
+				"power": "100",
+				"boilers": "4",
+				"SCADA": "none",
+				"system": "none"
+			}
+		]
+	},
+	{
+		"district":"ЦТ-4",
+		"object": "РК Воскресенка",
+		"param": [
+			{
+				"power": "100",
+				"boilers": "4",
+				"SCADA": "none",
+				"system": "none"
+			}
+		]
+	},
+	{
+		"district":"ЦТ-4",
+		"object": "СТ Позняки",
+		"param":[
+			{
+				"power": "100",
+				"boilers": "4",
+				"SCADA": "none",
+				"system": "none"
+			}
+		]
+	},
+	{
+		"district":"ЦТ-5",
+		"object":"РК Веркон",
+		"param": [
+			{
+				"power": "100",
+				"boilers": "4",
+				"SCADA": "none",
+				"system": "none"
+			}
+		]
+	},
+	{
+		"district":"ЦТ-5",
+		"object": "РК Відрадний",
+		"param":[
+			{
+				"power": "100",
+				"boilers": "4",
+				"SCADA": "none",
+				"system": "none"
+			}
+		]
+	},
+	{
+		"district":"ЦТ-5",
+		"object":"РК М. Борщагівська",
+		"param":[
+			{
+				"power": "100",
+				"boilers": "4",
+				"SCADA": "none",
+				"system": "none"
+			}
+		]
+	},
+	{
+		"district":"ЦТ-6",
+		"object": "РК Виноградар",
+		"param": [
+			{
+				"power": "100",
+				"boilers": "4",
+				"SCADA": "none",
+				"system": "none"
+			}
+		]	
+	},
+	{
+		"district":"ЦТ-6",
+		"object": "РК Нивки",
+		"param": [
+			{
+				"power": "100",
+				"boilers": "4",
+				"SCADA": "none",
+				"system": "none"
+			}
+		]	
+	},
+	{
+		"district":"ЦТ-1",
+		"object": "РК Центральна",
+		"param": [
+			{
+				"power": "100",
+				"boilers": "4",
+				"SCADA": "none",
+				"system": "none"
+			}
+		]
+	},
+	{
+		"district":"ЦТ-1",
+		"object": " СТ Біличі",
+		"param": [
+			{
+				"power": "100",
+				"boilers": "4",
+				"SCADA": "none",
+				"system": "none"
+			}
+		]
+	},
+	{
+		"district":"ЦТ-2",
+		"object": "РК Молодь",
+		"param": [
+			{
+				"power": "100",
+				"boilers": "4",
+				"SCADA": "none",
+				"system": "none"
+			}
+		]
+	},
+	{
+		"district":"ЦТ-2",
+		"object": "СТ-1",
+		"param": [
+			{
+				"power": "100",
+				"boilers": "4",
+				"SCADA": "none",
+				"system": "none"
+			}
+		]
+	},
+	{
+		"district":"ЦТ-3",
+		"object": "РК Мінська",
+		"param": [
+			{
+				"power": "100",
+				"boilers": "4",
+				"SCADA": "none",
+				"system": "none"
+			}
+		]
+	},
+	{
+		"district":"ЦТ-3",
+		"object": "РК Пар",
+		"param":[
+			{
+				"power": "100",
+				"boilers": "4",
+				"SCADA": "none",
+				"system": "none"
+			}
+		]
+	},
+	{
+		"district":"ЦТ-3",
+		"object": "СТ-2",
+		"param":[
+			{
+				"power": "100",
+				"boilers": "4",
+				"SCADA": "none",
+				"system": "none"
+			}
+		]
+	},
+	{
+		"district":"ЦТ-4",
+		"object": "РК Воскресенка",
+		"param": [
+			{
+				"power": "100",
+				"boilers": "4",
+				"SCADA": "none",
+				"system": "none"
+			}
+		]
+	},
+	{
+		"district":"ЦТ-4",
+		"object": "СТ Позняки",
+		"param":[
+			{
+				"power": "100",
+				"boilers": "4",
+				"SCADA": "none",
+				"system": "none"
+			}
+		]
+	},
+	{
+		"district":"ЦТ-5",
+		"object":"РК Веркон",
+		"param": [
+			{
+				"power": "100",
+				"boilers": "4",
+				"SCADA": "none",
+				"system": "none"
+			}
+		]
+	},
+	{
+		"district":"ЦТ-5",
+		"object": "РК Відрадний",
+		"param":[
+			{
+				"power": "100",
+				"boilers": "4",
+				"SCADA": "none",
+				"system": "none"
+			}
+		]
+	},
+	{
+		"district":"ЦТ-5",
+		"object":"РК М. Борщагівська",
+		"param":[
+			{
+				"power": "100",
+				"boilers": "4",
+				"SCADA": "none",
+				"system": "none"
+			}
+		]
+	},
+	{
+		"district":"ЦТ-6",
+		"object": "РК Виноградар",
+		"param": [
+			{
+				"power": "100",
+				"boilers": "4",
+				"SCADA": "none",
+				"system": "none"
+			}
+		]	
+	},
+	{
+		"district":"ЦТ-6",
+		"object": "РК Нивки",
+		"param": [
+			{
+				"power": "100",
+				"boilers": "4",
+				"SCADA": "none",
+				"system": "none"
+			}
+		]	
+	},
+	{
+		"district":"ЦТ-1",
+		"object": "РК Центральна",
+		"param": [
+			{
+				"power": "100",
+				"boilers": "4",
+				"SCADA": "none",
+				"system": "none"
+			}
+		]
+	},
+	{
+		"district":"ЦТ-1",
+		"object": " СТ Біличі",
+		"param": [
+			{
+				"power": "100",
+				"boilers": "4",
+				"SCADA": "none",
+				"system": "none"
+			}
+		]
+	},
+	{
+		"district":"ЦТ-2",
+		"object": "РК Молодь",
+		"param": [
+			{
+				"power": "100",
+				"boilers": "4",
+				"SCADA": "none",
+				"system": "none"
+			}
+		]
+	},
+	{
+		"district":"ЦТ-2",
+		"object": "СТ-1",
+		"param": [
+			{
+				"power": "100",
+				"boilers": "4",
+				"SCADA": "none",
+				"system": "none"
+			}
+		]
+	},
+	{
+		"district":"ЦТ-3",
+		"object": "РК Мінська",
+		"param": [
+			{
+				"power": "100",
+				"boilers": "4",
+				"SCADA": "none",
+				"system": "none"
+			}
+		]
+	},
+	{
+		"district":"ЦТ-3",
+		"object": "РК Пар",
+		"param":[
+			{
+				"power": "100",
+				"boilers": "4",
+				"SCADA": "none",
+				"system": "none"
+			}
+		]
+	},
+	{
+		"district":"ЦТ-3",
+		"object": "СТ-2",
+		"param":[
+			{
+				"power": "100",
+				"boilers": "4",
+				"SCADA": "none",
+				"system": "none"
+			}
+		]
+	},
+	{
+		"district":"ЦТ-4",
+		"object": "РК Воскресенка",
+		"param": [
+			{
+				"power": "100",
+				"boilers": "4",
+				"SCADA": "none",
+				"system": "none"
+			}
+		]
+	},
+	{
+		"district":"ЦТ-4",
+		"object": "СТ Позняки",
+		"param":[
+			{
+				"power": "100",
+				"boilers": "4",
+				"SCADA": "none",
+				"system": "none"
+			}
+		]
+	},
+	{
+		"district":"ЦТ-5",
+		"object":"РК Веркон",
+		"param": [
+			{
+				"power": "100",
+				"boilers": "4",
+				"SCADA": "none",
+				"system": "none"
+			}
+		]
+	},
+	{
+		"district":"ЦТ-5",
+		"object": "РК Відрадний",
+		"param":[
+			{
+				"power": "100",
+				"boilers": "4",
+				"SCADA": "none",
+				"system": "none"
+			}
+		]
+	},
+	{
+		"district":"ЦТ-5",
+		"object":"РК М. Борщагівська",
+		"param":[
+			{
+				"power": "100",
+				"boilers": "4",
+				"SCADA": "none",
+				"system": "none"
+			}
+		]
+	},
+	{
+		"district":"ЦТ-6",
+		"object": "РК Виноградар",
+		"param": [
+			{
+				"power": "100",
+				"boilers": "4",
+				"SCADA": "none",
+				"system": "none"
+			}
+		]	
+	},
+	{
+		"district":"ЦТ-6",
+		"object": "РК Нивки",
+		"param": [
+			{
+				"power": "100",
+				"boilers": "4",
+				"SCADA": "none",
+				"system": "none"
+			}
+		]	
+	}
+],
+"projects": [
+    {
+      "id": "1",
+      "object": "РК Здолбунівська",
+      "project": "Будівництво котла КВГМ-30\\150",
+      "date_add_project": "",
+      "date_add_TZ": "",
+      "date_zat_TZ": "0000-00-00",
+      "creator_project": "",
+      "equipment": "КВГМ-30\\150",
+      "adress": "Здолбунівська,2",
+      "stage": "Проект",
+      "contractor": "невідомо",
+      "control_controller_manufacturer": "Siemens",
+      "manufacturer_dispatcher_controller": "",
+      "SCADA": "",
+      "control": "ГЩУ та Місцеве",
+      "dispatcher": "Немає відомості"
+    },
+    {
+      "id": "2",
+      "object": "РК Здолбунівська",
+      "project": "Будівництво котла Енергетик -11.63",
+      "date_add_project": "",
+      "date_add_TZ": "",
+      "date_zat_TZ": "0000-00-00",
+      "creator_project": "",
+      "equipment": "Енергетик -11.63",
+      "adress": "Здолбунівська,2",
+      "stage": "Виконано",
+      "contractor": "Енерго-Інвест",
+      "control_controller_manufacturer": "ООО \"НПП\"ПРОМЭЛЕКТРОНИКА\"",
+      "manufacturer_dispatcher_controller": "",
+      "SCADA": "",
+      "control": "Місцеве",
+      "dispatcher": "Немає відомості"
+    },
+    {
+      "id": "3",
+      "object": "РК Здолбунівська",
+      "project": "Реконструкція ХВО",
+      "date_add_project": "",
+      "date_add_TZ": "",
+      "date_zat_TZ": "0000-00-00",
+      "creator_project": "",
+      "equipment": "ХВО",
+      "adress": "Здолбунівська,2",
+      "stage": "Проект",
+      "contractor": "невідомо",
+      "control_controller_manufacturer": "Siemens",
+      "manufacturer_dispatcher_controller": "",
+      "SCADA": "",
+      "control": "ГЩУ та Місцеве",
+      "dispatcher": "Немає відомості"
+    },
+    {
+      "id": "4",
+      "object": "СТ-1",
+      "project": "Реконструкція ХВО",
+      "date_add_project": "",
+      "date_add_TZ": "",
+      "date_zat_TZ": "0000-00-00",
+      "creator_project": "",
+      "equipment": "ХВО",
+      "adress": "Жилянська, 85",
+      "stage": "Наладка",
+      "contractor": "Енерго-Інвест",
+      "control_controller_manufacturer": "Siemens",
+      "manufacturer_dispatcher_controller": "",
+      "SCADA": "",
+      "control": "ХВО та Місцеве",
+      "dispatcher": "Немає відомості"
+    },
+    {
+      "id": "5",
+      "object": "Завод Енергія",
+      "project": "Реконструкція системи моніторингу викидів",
+      "date_add_project": "",
+      "date_add_TZ": "",
+      "date_zat_TZ": "0000-00-00",
+      "creator_project": "",
+      "equipment": "Газоаналізатор",
+      "adress": "Колекторна, 44",
+      "stage": "ТЗ",
+      "contractor": "СвязьТелекомСтрой",
+      "control_controller_manufacturer": "невідомо",
+      "manufacturer_dispatcher_controller": "",
+      "SCADA": "",
+      "control": "ГЩУ та Місцеве",
+      "dispatcher": "Передбачено"
+    },
+    {
+      "id": "6",
+      "object": "Завод Енергія",
+      "project": "Рекнструкція системи очистки викидів",
+      "date_add_project": "",
+      "date_add_TZ": "",
+      "date_zat_TZ": "0000-00-00",
+      "creator_project": "",
+      "equipment": "Хімочистка викидів",
+      "adress": "Колекторна, 44",
+      "stage": "ТЗ",
+      "contractor": "ТОВ ІК Навтогазові технології",
+      "control_controller_manufacturer": "невідомо",
+      "manufacturer_dispatcher_controller": "",
+      "SCADA": "",
+      "control": "ГЩУ та Місцеве",
+      "dispatcher": "Передбачено"
+    },
+    {
+      "id": "7",
+      "object": "Завод Енергія",
+      "project": "Реконструкція котлів",
+      "date_add_project": "",
+      "date_add_TZ": "",
+      "date_zat_TZ": "0000-00-00",
+      "creator_project": "",
+      "equipment": "Модернізація КВПіА та АСУТП",
+      "adress": "Колекторна, 44",
+      "stage": "ТЗ",
+      "contractor": "невідомо",
+      "control_controller_manufacturer": "невідомо",
+      "manufacturer_dispatcher_controller": "",
+      "SCADA": "",
+      "control": "ГЩУ та Місцеве",
+      "dispatcher": "Передбачено"
+    },
+    {
+      "id": "8",
+      "object": "Завод Енергія",
+      "project": "Реконструкція бойлерної №2",
+      "date_add_project": "",
+      "date_add_TZ": "",
+      "date_zat_TZ": "0000-00-00",
+      "creator_project": "",
+      "equipment": "Бойлерна",
+      "adress": "Колекторна, 44",
+      "stage": "Виконано",
+      "contractor": "невідомо",
+      "control_controller_manufacturer": "невідомо",
+      "manufacturer_dispatcher_controller": "",
+      "SCADA": "",
+      "control": "ГЩУ та Місцеве",
+      "dispatcher": "Передбачено"
+    },
+    {
+      "id": "9",
+      "object": "Завод Енергія",
+      "project": "Реконструкція системи зважування на КПП",
+      "date_add_project": "",
+      "date_add_TZ": "",
+      "date_zat_TZ": "0000-00-00",
+      "creator_project": "",
+      "equipment": "Ваги на прохідній",
+      "adress": "Колекторна, 44",
+      "stage": "невідомо",
+      "contractor": "невідомо",
+      "control_controller_manufacturer": "невідомо",
+      "manufacturer_dispatcher_controller": "",
+      "SCADA": "",
+      "control": "ГЩУ та Місцеве",
+      "dispatcher": "Передбачено"
+    },
+    {
+      "id": "10",
+      "object": "РК Полкова",
+      "project": "Реконструкція котла ТВГ-М-30 ",
+      "date_add_project": "",
+      "date_add_TZ": "",
+      "date_zat_TZ": "0000-00-00",
+      "creator_project": "",
+      "equipment": "ТВГ-М-30 ",
+      "adress": "Полкова, 57",
+      "stage": "ТЗ",
+      "contractor": "невідомо",
+      "control_controller_manufacturer": "невідомо",
+      "manufacturer_dispatcher_controller": "",
+      "SCADA": "",
+      "control": "невідомо",
+      "dispatcher": "невідомо"
+    },
+    {
+      "id": "11",
+      "object": "РК Полкова",
+      "project": "Реконструкція котла ПТВМ-30М-4",
+      "date_add_project": "",
+      "date_add_TZ": "",
+      "date_zat_TZ": "0000-00-00",
+      "creator_project": "",
+      "equipment": "ПТВМ-30М-4 ",
+      "adress": "Полкова, 57",
+      "stage": "ТЗ",
+      "contractor": "невідомо",
+      "control_controller_manufacturer": "невідомо",
+      "manufacturer_dispatcher_controller": "",
+      "SCADA": "",
+      "control": "невідомо",
+      "dispatcher": "невідомо"
+    },
+    {
+      "id": "12",
+      "object": "РК Полкова",
+      "project": "Реконструкція котла ДКВР-10\/13 (4шт)",
+      "date_add_project": "",
+      "date_add_TZ": "",
+      "date_zat_TZ": "0000-00-00",
+      "creator_project": "",
+      "equipment": "ДКВР-10\/13 (4шт)",
+      "adress": "Полкова, 57",
+      "stage": "ТЗ",
+      "contractor": "невідомо",
+      "control_controller_manufacturer": "невідомо",
+      "manufacturer_dispatcher_controller": "",
+      "SCADA": "",
+      "control": "невідомо",
+      "dispatcher": "невідомо"
+    },
+    {
+      "id": "13",
+      "object": "РК Полкова",
+      "project": "Реконструкція котла ТВГ-М-30 ",
+      "date_add_project": "",
+      "date_add_TZ": "",
+      "date_zat_TZ": "0000-00-00",
+      "creator_project": "",
+      "equipment": "ТВГ-М-30 ",
+      "adress": "Полкова, 57",
+      "stage": "ТЗ",
+      "contractor": "невідомо",
+      "control_controller_manufacturer": "невідомо",
+      "manufacturer_dispatcher_controller": "",
+      "SCADA": "",
+      "control": "невідомо",
+      "dispatcher": "невідомо"
+    },
+    {
+      "id": "14",
+      "object": "РК Полкова",
+      "project": "Реконструкція ХВО",
+      "date_add_project": "",
+      "date_add_TZ": "",
+      "date_zat_TZ": "0000-00-00",
+      "creator_project": "",
+      "equipment": "ХВО",
+      "adress": "Полкова, 57",
+      "stage": "ТЗ",
+      "contractor": "невідомо",
+      "control_controller_manufacturer": "невідомо",
+      "manufacturer_dispatcher_controller": "",
+      "SCADA": "",
+      "control": "невідомо",
+      "dispatcher": "невідомо"
+    },
+    {
+      "id": "16",
+      "object": "СТ Позняки",
+      "project": "Заміна штатних пальників котлів КВГМ-100-150 СТ «Позняки» для зниження викидів забруднюючих речовин",
+      "date_add_project": "",
+      "date_add_TZ": "",
+      "date_zat_TZ": "0000-00-00",
+      "creator_project": "",
+      "equipment": "КВГМ-100-150",
+      "adress": "Ревуцького, 41",
+      "stage": "ТЗ",
+      "contractor": "невідомо",
+      "control_controller_manufacturer": "невідомо",
+      "manufacturer_dispatcher_controller": "",
+      "SCADA": "",
+      "control": "невідомо",
+      "dispatcher": "невідомо"
+    },
+    {
+      "id": "17",
+      "object": "СТ Біличі",
+      "project": "Реконструкція котла типу КВГМ-100 № 3 СТ «Біличі» з заміною пальникових пристроїв",
+      "date_add_project": "",
+      "date_add_TZ": "",
+      "date_zat_TZ": "0000-00-00",
+      "creator_project": "",
+      "equipment": "КВГМ-100 ",
+      "adress": "вул. Робітнича, 1",
+      "stage": "ТЗ",
+      "contractor": "невідомо",
+      "control_controller_manufacturer": "невідомо",
+      "manufacturer_dispatcher_controller": "",
+      "SCADA": "",
+      "control": "невідомо",
+      "dispatcher": "невідомо"
+    },
+    {
+      "id": "18",
+      "object": "СТ Біличі",
+      "project": "Реконструкція НС-1        ",
+      "date_add_project": "",
+      "date_add_TZ": "",
+      "date_zat_TZ": "0000-00-00",
+      "creator_project": "",
+      "equipment": "НС-1",
+      "adress": "вул. Робітнича, 1",
+      "stage": "ТЗ",
+      "contractor": "невідомо",
+      "control_controller_manufacturer": "невідомо",
+      "manufacturer_dispatcher_controller": "",
+      "SCADA": "",
+      "control": "невідомо",
+      "dispatcher": "невідомо"
+    },
+    {
+      "id": "19",
+      "object": "РК Відрадний",
+      "project": "реконструкція водогрійного котла типу ПТВМ-50 ст. № 3 РК «Відрадний» з заміною пальникових пристроїв на сучасні та заміною поверхонь нагріву",
+      "date_add_project": "",
+      "date_add_TZ": "2021-04-29",
+      "date_zat_TZ": "",
+      "creator_project": "",
+      "equipment": "ПТВМ-50",
+      "adress": "просп. Комарова, 7",
+      "stage": "ТЗ",
+      "contractor": "невідомо",
+      "control_controller_manufacturer": "невідомо",
+      "manufacturer_dispatcher_controller": "",
+      "SCADA": "",
+      "control": "невідомо",
+      "dispatcher": "невідомо"
+    },
+    {
+      "id": "20",
+      "object": "РК Відрадний",
+      "project": "на заміну сітьового насосу ст. № 4",
+      "date_add_project": "",
+      "date_add_TZ": "2019-03-19",
+      "date_zat_TZ": "",
+      "creator_project": "",
+      "equipment": "СН-4",
+      "adress": "просп. Комарова, 7",
+      "stage": "ТЗ",
+      "contractor": "невідомо",
+      "control_controller_manufacturer": "невідомо",
+      "manufacturer_dispatcher_controller": "",
+      "SCADA": "",
+      "control": "невідомо",
+      "dispatcher": "невідомо"
+    },
+    {
+      "id": "21",
+      "object": "РК Відрадний",
+      "project": "на заміну підживлюючого насосу теплових мереж ПНТС № 4 РК «Відрадний» зі збільшенням витрато-напірних характеристик з приладом частотного регулювання",
+      "date_add_project": "",
+      "date_add_TZ": "2017-03-30",
+      "date_zat_TZ": "",
+      "creator_project": "",
+      "equipment": "ПНТС № 4 ",
+      "adress": "просп. Комарова, 7",
+      "stage": "ТЗ",
+      "contractor": "невідомо",
+      "control_controller_manufacturer": "невідомо",
+      "manufacturer_dispatcher_controller": "",
+      "SCADA": "",
+      "control": "невідомо",
+      "dispatcher": "невідомо"
+    },
+    {
+      "id": "22",
+      "object": "СТ-2",
+      "project": "Реконструкція системи автоматичного керування пальника ПТВМ-100 № 1 СТ-2",
+      "date_add_project": "",
+      "date_add_TZ": "",
+      "date_zat_TZ": "0000-00-00",
+      "creator_project": "",
+      "equipment": "ПТВМ-100 ",
+      "adress": "пров. Електриків, 17",
+      "stage": "ТЗ",
+      "contractor": "невідомо",
+      "control_controller_manufacturer": "невідомо",
+      "manufacturer_dispatcher_controller": "",
+      "SCADA": "",
+      "control": "невідомо",
+      "dispatcher": "невідомо"
+    },
+    {
+      "id": "23",
+      "object": "СТ-2",
+      "project": "реконструкція водогрійного котла типу ПТВМ-100 № 1 СТ-2 ",
+      "date_add_project": "",
+      "date_add_TZ": "",
+      "date_zat_TZ": "0000-00-00",
+      "creator_project": "",
+      "equipment": "ПТВМ-100 ",
+      "adress": "пров. Електриків, 17",
+      "stage": "ТЗ",
+      "contractor": "невідомо",
+      "control_controller_manufacturer": "невідомо",
+      "manufacturer_dispatcher_controller": "",
+      "SCADA": "",
+      "control": "невідомо",
+      "dispatcher": "невідомо"
+    },
+    {
+      "id": "24",
+      "object": "СТ-2",
+      "project": "Реконструкція вузла підігріву мережної води СТ-2 з заміною бойлера ОБ-1 ПСВ-500-3-23 \nна сучасний",
+      "date_add_project": "",
+      "date_add_TZ": "",
+      "date_zat_TZ": "0000-00-00",
+      "creator_project": "",
+      "equipment": "",
+      "adress": "пров. Електриків, 17",
+      "stage": "ТЗ",
+      "contractor": "невідомо",
+      "control_controller_manufacturer": "невідомо",
+      "manufacturer_dispatcher_controller": "",
+      "SCADA": "",
+      "control": "невідомо",
+      "dispatcher": "невідомо"
+    },
+    {
+      "id": "25",
+      "object": "СТ-2",
+      "project": "на проект заміни живильного насосу (ПН-16) на станції теплопостачання № 2 (СТ-2) ",
+      "date_add_project": "",
+      "date_add_TZ": "",
+      "date_zat_TZ": "0000-00-00",
+      "creator_project": "",
+      "equipment": "ПН-16 ",
+      "adress": "пров. Електриків, 17",
+      "stage": "ТЗ",
+      "contractor": "невідомо",
+      "control_controller_manufacturer": "невідомо",
+      "manufacturer_dispatcher_controller": "",
+      "SCADA": "",
+      "control": "невідомо",
+      "dispatcher": "невідомо"
+    },
+    {
+      "id": "26",
+      "object": "РК Теремки",
+      "project": "на реконструкцію РК \"Теремки\" із збільшенням встановленої теплової потужності",
+      "date_add_project": "",
+      "date_add_TZ": "",
+      "date_zat_TZ": "0000-00-00",
+      "creator_project": "",
+      "equipment": "Все обладнання РК",
+      "adress": "просп. Глушкова, 38",
+      "stage": "ТЗ",
+      "contractor": "невідомо",
+      "control_controller_manufacturer": "невідомо",
+      "manufacturer_dispatcher_controller": "",
+      "SCADA": "",
+      "control": "невідомо",
+      "dispatcher": "невідомо"
+    },
+    {
+      "id": "27",
+      "object": "РК Нивки",
+      "project": "реконструкція РК «Нивки» ",
+      "date_add_project": "",
+      "date_add_TZ": "",
+      "date_zat_TZ": "0000-00-00",
+      "creator_project": "",
+      "equipment": "Все обладнання РК",
+      "adress": "вул. Салютна, 23Б",
+      "stage": "ТЗ",
+      "contractor": "невідомо",
+      "control_controller_manufacturer": "невідомо",
+      "manufacturer_dispatcher_controller": "",
+      "SCADA": "",
+      "control": "невідомо",
+      "dispatcher": "невідомо"
+    },
+    {
+      "id": "28",
+      "object": "РК М. Борщагівка",
+      "project": "Реконструкція котла типу ПТВМ-50 № 4 РК «М. Борщагівка» з заміною пальникових пристроїв",
+      "date_add_project": "",
+      "date_add_TZ": "",
+      "date_zat_TZ": "0000-00-00",
+      "creator_project": "",
+      "equipment": "ПТВМ-50 ",
+      "adress": "вул. Жмеринська, 14",
+      "stage": "ТЗ",
+      "contractor": "невідомо",
+      "control_controller_manufacturer": "невідомо",
+      "manufacturer_dispatcher_controller": "",
+      "SCADA": "",
+      "control": "невідомо",
+      "dispatcher": "невідомо"
+    },
+    {
+      "id": "29",
+      "object": "РК Воскресенка",
+      "project": "реконструкція деаераторів ВПУ атмосферного типу на вакуумний РК «Воскресенка» ",
+      "date_add_project": "",
+      "date_add_TZ": "",
+      "date_zat_TZ": "0000-00-00",
+      "creator_project": "",
+      "equipment": "ДСА-50\/25",
+      "adress": "вул. Крайня, 1",
+      "stage": "ТЗ",
+      "contractor": "невідомо",
+      "control_controller_manufacturer": "невідомо",
+      "manufacturer_dispatcher_controller": "",
+      "SCADA": "",
+      "control": "невідомо",
+      "dispatcher": "невідомо"
+    },
+    {
+      "id": "30",
+      "object": "СТ-2",
+      "project": "Роботи з розробки проектно-кошторисної документації.\r\nРеконструкція водогрійного котла\r\nтипу ТП-170 (реконструйований) №10 ст.2",
+      "date_add_project": "2021-01-14",
+      "date_add_TZ": "",
+      "date_zat_TZ": "0000-00-00",
+      "creator_project": "",
+      "equipment": "",
+      "adress": "пров. Електриків, 17",
+      "stage": "Проект",
+      "contractor": "ПРАТ НТП &quot;Укрпроменерго&quot;",
+      "control_controller_manufacturer": "",
+      "manufacturer_dispatcher_controller": "",
+      "SCADA": "",
+      "control": "none",
+      "dispatcher": "none"
+    },
+    {
+      "id": "31",
+      "object": "РК Мінська",
+      "project": "&laquo;Роботи з розробки проектно-кошторисної\r\nдокументації.\r\nРеконструкція водогрійного котла типу ПТВМ-30М\r\n№2 РК &laquo;Мінська&raquo;",
+      "date_add_project": "",
+      "date_add_TZ": "",
+      "date_zat_TZ": "0000-00-00",
+      "creator_project": "",
+      "equipment": "ПТВМ-30М №2 ",
+      "adress": "проспект Рокосовського, 8-Б",
+      "stage": "Проект",
+      "contractor": "ПРАТ НТП &quot;Укрпроменерго&quot;",
+      "control_controller_manufacturer": "Schneider Electric",
+      "manufacturer_dispatcher_controller": "",
+      "SCADA": "",
+      "control": "з ГЩУ",
+      "dispatcher": "Передбачено"
+    },
+    {
+      "id": "32",
+      "object": "РК Нивки",
+      "project": "Реконструкція водогрійного котла типу ПТВМ-50 ст.№ 1 РК &laquo;Нивки&raquo; з заміною пальників на сучасні та малотоксичні",
+      "date_add_project": "2021-02-04",
+      "date_add_TZ": "",
+      "date_zat_TZ": "0000-00-00",
+      "creator_project": "",
+      "equipment": "ПТВМ-50 ст №1",
+      "adress": "вул. Салютна, 23Б",
+      "stage": "ТЗ",
+      "contractor": "",
+      "control_controller_manufacturer": "",
+      "manufacturer_dispatcher_controller": "",
+      "SCADA": "",
+      "control": "з ГЩУ",
+      "dispatcher": "Передбачено"
+    },
+    {
+      "id": "33",
+      "object": "РК Виноградар",
+      "project": "реконструкція водогрійного котла типу ПТВМ-50 № 1 РК &laquo;Виноградар&raquo; ",
+      "date_add_project": "2021-02-23",
+      "date_add_TZ": "",
+      "date_zat_TZ": "0000-00-00",
+      "creator_project": "",
+      "equipment": "ПТВМ-50",
+      "adress": "м. Київ, вул. Світлицького, 34",
+      "stage": "ТЗ",
+      "contractor": "",
+      "control_controller_manufacturer": "",
+      "manufacturer_dispatcher_controller": "",
+      "SCADA": "",
+      "control": "з ГЩУ",
+      "dispatcher": "Передбачено"
+    },
+    {
+      "id": "34",
+      "object": "РК Теремки",
+      "project": "Заміна водогрійного котла ПТВМ-30 М №7  РК &laquo;Теремки&raquo; на сучасний автоматичний водогрійний котел тепловою потужністю не менш 40 Гкал\/год",
+      "date_add_project": "2021-04-30",
+      "date_add_TZ": "",
+      "date_zat_TZ": "0000-00-00",
+      "creator_project": "",
+      "equipment": "ПТВМ-30 М №7",
+      "adress": "просп. Глушкова, 38",
+      "stage": "ТЗ",
+      "contractor": "-",
+      "control_controller_manufacturer": "-",
+      "manufacturer_dispatcher_controller": "",
+      "SCADA": "",
+      "control": "з ГЩУ",
+      "dispatcher": "Передбачено"
+    },
+    {
+      "id": "35",
+      "object": "СТ-2",
+      "project": "Реконструкція станції теплопостачання № 2 (СТ-2) за адресою: пров. Електриків, 17 \r\nКП &laquo;КИЇВТЕПЛОЕНЕРГО&raquo; зі встановленням в комірках котлів № 5 і № 6 \r\nнових водогрійних котлів потужністю 100 Гкал\/год кожен.",
+      "date_add_project": "2021-04-28",
+      "date_add_TZ": "",
+      "date_zat_TZ": "0000-00-00",
+      "creator_project": "",
+      "equipment": "котли № 5 і № 6",
+      "adress": "пров. Електриків, 17",
+      "stage": "ТЗ",
+      "contractor": "-",
+      "control_controller_manufacturer": "-",
+      "manufacturer_dispatcher_controller": "",
+      "SCADA": "",
+      "control": "з ГЩУ",
+      "dispatcher": "Передбачено"
+    },
+    {
+      "id": "36",
+      "object": "pozniaki",
+      "project": "Модернізація існуючої АСУ ТП СТ Позняки за адресою вул. Ревуцького, 41 ",
+      "date_add_project": "2021-06-03",
+      "date_add_TZ": "",
+      "date_zat_TZ": "0000-00-00",
+      "creator_project": "",
+      "equipment": "АСУТП",
+      "adress": "Ревуцького, 41",
+      "stage": "Проект",
+      "contractor": "Котрис",
+      "control_controller_manufacturer": "Honeywell",
+      "manufacturer_dispatcher_controller": "",
+      "SCADA": "Expirion PKS",
+      "control": "з ГЩУ",
+      "dispatcher": "Передбачено"
+    }
+  ]
+}

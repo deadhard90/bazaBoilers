@@ -1,0 +1,66 @@
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+a:visited {
+  text-decoration: none;
+  color: inherit;
+}
+
+body {
+  width: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+.scroll-fixed {
+  overflow: hidden;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+.body-of-base {
+  width: 100vw;
+  text-align: center;
+}
+
+.table-of-base {
+  width: 100%;
+  text-align: center;
+  border-collapse: collapse;
+  font-size: 0.75em;
+  word-break: break-word;
+  padding: 30px;
+}
+
+.thead-of-base {
+  background-color: #292929;
+  height: 30px;
+  color: #fff;
+}
+
+.table-of-base td {
+  padding: 10px;
+  max-width: 150px;
+}
+
+.table-of-base th:first-child,
+.table-of-base td:first-child {
+  width: 30px;
+}
+
+.tbody-of-base tr:nth-child(odd) {
+  background: #a9a9a9;
+}
+
+.tbody-of-base tr:nth-child(even) {
+  background: #fff;
+}
+
+.tbody-of-base tr:nth-child(odd):hover,
+.tbody-of-base tr:nth-child(even):hover {
+  background-color: #f2b70c;
+}

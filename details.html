@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        @import url(css/general.css);
+        @import url(css/menu.css);
+    </style>
+    <script src="js/details.js" defer></script>
+    <script src="js/menu.js" defer></script>
+</head>
+    <body>
+        <main>
+            <div data-menu-button class="menu-button-of-base">
+                <span data-menu-button-span class="menu-button-open"></span>
+            </div>
+            <nav data-menu class="nav-menu-block">
+                <div data-menu-list class="item-list">
+                    <a href="#" data-menu-gaberal >General</a>
+                    <a href="#" data-menu-sboilers>Small Boilers</a>
+                    <a href="#" data-menu-mboilers>Big Boilers</a>
+                    <a href="#" data-menu-contacts>Contacts</a>
+                </div>
+            </nav>
+            <section class="header-of-base">
+                <h1><i>Test of Base</i></h1>
+                <aside class="find-in-base">
+                    <p>Sort:</p>
+                    <select name="" id="">
+                        <option value="true">true</option>
+                        <option value="A-Z">A-Z</option>
+                        <option value="Z-A">Z-A</option>
+                    </select>
+                    <input type="text" placeholder="start typing">
+                    <button>Search</button>
+                </aside>
+            </section>
+            <section class="body-of-base">
+                <article data-boiler-name></article>
+                <table data-base-table class="table-of-base">
+                    <thead>
+                        <tr>
+                            <th>Котли</th>
+                            <th>Дата відкриття</th>
+                            <th>Тип палива</th>
+                            <th>Тип теплоносія</th>
+                            <th>Сумарна потужність</th>
+                        </tr>
+                    </thead>
+                    <tbody data-insert-string-from-base>
+                    </tbody>
+                </table>
+                <!-- <section class="body-of-base">
+                <table data-base-table class="table-of-base">
+                    <thead>
+                        <tr>
+                            <th>№</th>
+                            <th>Обєкт</th>
+                            <th>Проект</th>
+                            <th>Обладнання</th>
+                            <th>Стадія</th>
+                            <th>Підрядник</th>
+                            <th>Вир. кон-у кер-я</th>
+                            <th>Вир. кон-у дисп-ї</th>
+                            <th>SCADA</th>
+                            <th>Керування</th>
+                            <th>Дисп-я</th>
+                        </tr>
+                    </thead>
+                    <tbody data-insert-string-from-base>
+                    </tbody>
+                </table>
+            </section>  -->
+            </section> 
+        </main>
+    </body>
+</html>
